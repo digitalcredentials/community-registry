@@ -1,0 +1,23 @@
+{
+  "meta":{
+    "created":"2022-10-27T17:57:31+00:00",
+    "updated":"2022-10-27T17:57:31+00:00"
+  },
+  "registry":{
+    "did:key:z6MkpLDL3RoAoMRTwTgo3rs39ZwssfaPKtGdZw7AGRN7CK4W":{
+      "name":"My University",
+      "location":"Cambridge, MA, USA",
+      "url":"https://digitalcredentials.mit.edu"
+    },
+    "did:key:z6MkwcvAGvRUZk5TjdAZrBwQdaSYwDTbpEGjCrqR5zWU3Yf3":{
+      "name":"My College",
+      "location":"Prato, Italy",
+      "url":"https://some.domain.org"
+    },
+    "did:web:credentials.myschool.ca":{
+      "name":"My School",
+      "location":"Ancaster, ON, Canada",
+      "url":"https://some.domain.ca"
+    }
+  }
+}
