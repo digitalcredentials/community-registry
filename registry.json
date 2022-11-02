@@ -18,6 +18,11 @@
       "name":"My School",
       "location":"Ancaster, ON, Canada",
       "url":"https://some.domain.ca"
+    },
+    "did:key:z6Mkf5rGMoatrSj1f4CyvuHBeXJELe9RPdzo2PKGNCKVtZxP":{
+      "name":"Participate, Inc",
+      "location":"Chapel Hill, NC, UCA",
+      "url":"https://plugfest.participate.com"
     }
   }
 }
