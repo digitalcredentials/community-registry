@@ -1,7 +1,7 @@
 {
   "meta":{
     "created":"2022-10-27T17:57:31+00:00",
-    "updated":"2022-10-27T17:57:31+00:00"
+    "updated":"2022-11-03T14:32:31+00:00"
   },
   "registry":{
     "did:key:z6MkpLDL3RoAoMRTwTgo3rs39ZwssfaPKtGdZw7AGRN7CK4W":{
@@ -23,6 +23,11 @@
       "name":"Participate, Inc",
       "location":"Chapel Hill, NC, UCA",
       "url":"https://plugfest.participate.com"
+    },
+    "did:key:z6MkjSz4mYqcn7dePGuktJ5PxecMkXQQHWRg8Lm6okATyFVh":{
+      "name":"Learning Economy Foundation",
+      "location":"Washington, D.C.",
+      "url":"https://bridge.learncard.com"
     }
   }
 }
