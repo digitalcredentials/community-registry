@@ -21,8 +21,13 @@
     },
     "did:key:z6Mkf5rGMoatrSj1f4CyvuHBeXJELe9RPdzo2PKGNCKVtZxP":{
       "name":"Participate, Inc",
-      "location":"Chapel Hill, NC, UCA",
+      "location":"Chapel Hill, NC, USA",
       "url":"https://plugfest.participate.com"
+    },
+    "did:key:z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn":{
+      "name":"JFF Plugfest 2 Test Issuer",
+      "location":"USA",
+      "url":"https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/"
     }
   }
 }
