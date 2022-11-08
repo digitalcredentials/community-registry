@@ -33,6 +33,11 @@
       "name":"JFF Plugfest 2 Test Issuer",
       "location":"USA",
       "url":"https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/"
+    },
+     "did:key:z6MkjVBVTXNgz7WxjTihA7VHkbzR7BjyVigeD3JHmvbUPnu6":{
+      "name":"TerritoriumCLR",
+      "location":"USA",
+      "url":"https://www.territorium.com/clr/"
     }
   }
 }
