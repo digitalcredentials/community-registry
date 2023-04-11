@@ -5,7 +5,7 @@ A list of known [DIDs](https://www.w3.org/TR/did-core/) that issue [Verifiable C
 
 <b>NOTE:  If you are participating in the JFF Plugfest 2 as a DCC issuing partner, then you are in the right place.  Read on to add your DID...</b>
 
-The purpose of the registry is to identify 'known' DIDs, and thereby enable a verifier to confirm that a given Veriable Credential was signed using a DID from a known issuer.  Without the registry (or something equivalent) all the verifier could tell you was that a credential had been properly signed by a given DID, but not *who* had signed the credentials.  The DID could be under the control of anyone, potentially someone impersonating another individual or organization.
+The purpose of the registry is to identify 'known' DIDs, and thereby enable a verifier to confirm that a given Verfiable Credential was signed using a DID from a known issuer.  Without the registry (or something equivalent) all the verifier could tell you was that a credential had been properly signed by a given DID, but not *who* had signed the credentials.  The DID could be under the control of anyone, potentially someone impersonating another individual or organization.
 
 IMPORTANT: The DIDs in this community registry have been curated by the DCC, but only as DIDs known to the DCC for community experimentation. Verifiable Credentials signed with any of the DIDs in this registry should not be ascribed more meaning than that. 
 
