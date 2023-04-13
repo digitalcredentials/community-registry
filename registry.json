@@ -38,6 +38,11 @@
       "name":"TerritoriumCLR",
       "location":"USA",
       "url":"https://www.territorium.com/clr/"
+    },
+     "did:key:z6MkvCQzWzLE6t7CbvHLXkEpYrQeqCfem3rFds6ZDjmarLGU":{
+      "name":"Bioscience Core Skills Institute",
+      "location":"USA",
+      "url":"https://coreskillsinstitute.com/"
     }
   }
 }
