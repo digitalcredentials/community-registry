@@ -43,6 +43,11 @@
       "name":"Bioscience Core Skills Institute",
       "location":"USA",
       "url":"https://coreskillsinstitute.com/"
+    },
+    "did:key:z6MksfP8fgyfeMdNkcFj9AzQA6Gy8ihdJ29n9hNSKwmCLVPJ":{
+      "name":"College Unbound",
+      "location":"Providence, RI, USA",
+      "url":"https://collegeunbound.edu"
     }
   }
 }
