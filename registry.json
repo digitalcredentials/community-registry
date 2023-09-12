@@ -48,6 +48,11 @@
       "name":"College Unbound",
       "location":"Providence, RI, USA",
       "url":"https://collegeunbound.edu"
+    },
+    "did:key:z6MkkKnMY4nXoLMxVSGgheknfHkM8mZmcgimWFJz2A6ZykCf":{
+      "name":"Digital Credentials Consortium Demo Issuer",
+      "location":"Cambridge, MA, USA",
+      "url":"https://digitalcredentials.mit.edu/"
     }
   }
 }
