@@ -1,7 +1,7 @@
 {
   "meta":{
     "created":"2022-10-27T17:57:31+00:00",
-    "updated":"2022-11-04T18:44:47+00:00"
+    "updated":"2023-09-26T16:23:38+00:00"
   },
   "registry":{
     "did:key:z6MkpLDL3RoAoMRTwTgo3rs39ZwssfaPKtGdZw7AGRN7CK4W":{
@@ -33,6 +33,11 @@
       "name":"JFF Plugfest 2 Test Issuer",
       "location":"USA",
       "url":"https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/"
+    },
+    "did:key:z6MknTHVAhsRyNzBG6h5wjTrg76UGUaBoXS5Vs9Apfr1fbCj":{
+      "name":"JFFLabs VC-EDU PlugFest3",
+      "location":"New York - Massachusetts, USA",
+      "url":"https://w3c-ccg.github.io/vc-ed/plugfest-3-2023/"
     },
      "did:key:z6MkjVBVTXNgz7WxjTihA7VHkbzR7BjyVigeD3JHmvbUPnu6":{
       "name":"TerritoriumCLR",
