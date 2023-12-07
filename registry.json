@@ -58,6 +58,10 @@
       "name":"Digital Credentials Consortium Demo Issuer",
       "location":"Cambridge, MA, USA",
       "url":"https://digitalcredentials.mit.edu/"
+    },
+    "did:key:zDnaetJXLLvjjrBYZJ43LpMAkLQM4t1n3nEPzK25Me4Xe7HWz":{
+        "name": "Jobs for the Future (JFF)",
+        "url": "https://www.jff.org/"
     }
   }
 }
