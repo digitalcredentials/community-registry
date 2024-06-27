@@ -62,6 +62,11 @@
     "did:key:zDnaetJXLLvjjrBYZJ43LpMAkLQM4t1n3nEPzK25Me4Xe7HWz":{
         "name": "Jobs for the Future (JFF)",
         "url": "https://www.jff.org/"
+    },
+    "did:key:z6MksSgUiAGqx6bDgUoc95ApDrFCTQht3Z9RjemMpApfY5uz":{
+        "name": "Jobs for The Future ",
+        "location": "Boston, MA, USA",
+        "url": "https://www.jff.org/"
     }
   }
 }
