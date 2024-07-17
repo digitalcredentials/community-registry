@@ -1,7 +1,7 @@
 {
   "meta":{
     "created":"2022-10-27T17:57:31+00:00",
-    "updated":"2023-09-26T16:23:38+00:00"
+    "updated":"2024-07-17T15:00:00+00:00"
   },
   "registry":{
     "did:key:z6MkpLDL3RoAoMRTwTgo3rs39ZwssfaPKtGdZw7AGRN7CK4W":{
@@ -22,7 +22,12 @@
     "did:key:z6Mkf5rGMoatrSj1f4CyvuHBeXJELe9RPdzo2PKGNCKVtZxP":{
       "name":"Participate, Inc",
       "location":"Chapel Hill, NC, USA",
-      "url":"https://plugfest.participate.com"
+      "url":"https://www.participate.com"
+    },
+    "did:web:participate.community": {
+      "name": "Participate, Inc",
+      "location": "Chapel Hill, NC, USA",
+      "url": "https://www.participate.com"
     },
     "did:key:z6MkjSz4mYqcn7dePGuktJ5PxecMkXQQHWRg8Lm6okATyFVh":{
       "name":"Learning Economy Foundation",
