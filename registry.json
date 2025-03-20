@@ -1,7 +1,7 @@
 {
   "meta":{
     "created":"2022-10-27T17:57:31+00:00",
-    "updated":"2023-09-26T16:23:38+00:00"
+    "updated":"2025-03-20T18:10:38+00:00"
   },
   "registry":{
     "did:key:z6MkpLDL3RoAoMRTwTgo3rs39ZwssfaPKtGdZw7AGRN7CK4W":{
@@ -67,6 +67,11 @@
         "name": "Jobs for The Future ",
         "location": "Boston, MA, USA",
         "url": "https://www.jff.org/"
+    },
+    "did:key:z6MkpMLjm4cE1cwhHhe8UFzizgmCX4iQFnf2ayEGsTxKUBQR":{
+        "name": "Hire Heroes",
+        "location": "Alpharetta, GA, USA",
+        "url": "https://hireheroesusa.org/"
     }
   }
 }
