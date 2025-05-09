@@ -1,9 +1,14 @@
 {
     "meta": {
         "created": "2022-10-27T17:57:31+00:00",
-        "updated": "2025-03-25T18:29:52+00:00"
+        "updated": "2025-05-09T18:22:03+00:00"
     },
     "registry": {
+        "did:key:z6MkuL7x2mTEoBmUuuaQ2hvEUd2YsEtmsHeX9JzqJZ8VYaVH": {
+            "name": "DCC did:key for testing a did in four registries",
+            "location": "Cambridge, MA, USA",
+            "url": "https://digitalcredentials.mit.edu"
+        },
         "did:key:z6MkpLDL3RoAoMRTwTgo3rs39ZwssfaPKtGdZw7AGRN7CK4W": {
             "name": "My University",
             "location": "Cambridge, MA, USA",
@@ -106,7 +111,7 @@
             "location": "Chapel Hill, NC, USA",
             "url": "https://www.participate.com"
         },
-         "did:key:z6MkhQcQ4vrg42AE44Gfu514urdKTcto3o8DxQurKi2x2FQ5": {
+        "did:key:z6MkhQcQ4vrg42AE44Gfu514urdKTcto3o8DxQurKi2x2FQ5": {
             "name": "Proof of Knowledge Test",
             "location": "Argentina",
             "url": "https://www.pok.tech/"
