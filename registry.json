@@ -29,6 +29,11 @@
             "location": "Chapel Hill, NC, USA",
             "url": "https://plugfest.participate.com"
         },
+        "did:web:network.learncard.com": {
+            "name": "Learning Economy Foundation",
+            "location": "Washington, D.C.",
+            "url": "https://learncard.com"
+        },
         "did:key:z6MkjSz4mYqcn7dePGuktJ5PxecMkXQQHWRg8Lm6okATyFVh": {
             "name": "Learning Economy Foundation",
             "location": "Washington, D.C.",
