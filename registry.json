@@ -69,6 +69,11 @@
             "location": "Cambridge, MA, USA",
             "url": "https://digitalcredentials.mit.edu/"
         },
+        "did:key:z6MkkGgeE63vfCkhhbfvJAV9GsMnEUSgf7VE3JEizvyA4PTm": {
+            "name": "Goodwill Industries International",
+            "location": "Rockville, MD, USA",
+            "url": "https://goodwill.org"
+        },
         "did:key:zDnaetJXLLvjjrBYZJ43LpMAkLQM4t1n3nEPzK25Me4Xe7HWz": {
             "name": "Jobs for the Future (JFF)",
             "url": "https://www.jff.org/"
