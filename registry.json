@@ -126,5 +126,10 @@
             "location": "Argentina",
             "url": "https://www.pok.tech/"
         }
+        "did:key:z6MkgEyYuRsaCMpNis5W2sYJHt52RRiJj93PHVtKW7894Kgs" {
+            "name": "Universidad Nacional de Rosario",
+            "location": "Argentina",
+            "url": "https://www.unr.edu.ar/"
+        }
     }
 }
