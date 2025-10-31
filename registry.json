@@ -1,7 +1,7 @@
 {
     "meta": {
         "created": "2022-10-27T17:57:31+00:00",
-        "updated": "2025-05-09T18:22:03+00:00"
+        "updated": "2025-10-31T07:11:34+00:00"
     },
     "registry": {
         "did:key:z6MkuL7x2mTEoBmUuuaQ2hvEUd2YsEtmsHeX9JzqJZ8VYaVH": {
@@ -125,6 +125,11 @@
             "name": "Proof of Knowledge Test",
             "location": "Argentina",
             "url": "https://www.pok.tech/"
+        },
+        "did:web:app.digit.ink:server:dids": {
+            "name": "Digit.ink",
+            "location": "Worldwide",
+            "url": "https://www.digit.ink/"
         }
     }
 }
