@@ -125,6 +125,11 @@
             "name": "Proof of Knowledge Test",
             "location": "Argentina",
             "url": "https://www.pok.tech/"
+        },
+        "did:web:app.certivo.com.br": {
+            "name": "Certivo",
+            "location": "Florianópolis, SC, Brazil",
+            "url": "https://certivo.com.br"
         }
     }
 }
