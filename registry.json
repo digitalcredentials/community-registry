@@ -130,6 +130,11 @@
             "name": "Digit.ink",
             "location": "Worldwide",
             "url": "https://www.digit.ink/"
+        },
+        "did:web:interopalliance.org": {
+            "name": "Interop Alliance",
+            "location": "Massachussetts, USA",
+            "url": "https://interopalliance.org"
         }
     }
 }
